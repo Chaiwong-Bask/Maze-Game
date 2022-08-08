@@ -1,8 +1,10 @@
+//This is a setting for UltraStar deluxe
+
 {
     "GameSettings":{
         "language":"English",
         "songDirs":[
-            "D:\\Bask\\maze_new\\thisOne\\UltraStar + Maze\\Songs"
+            "~\\Songs"
         ]
     },
     "GraphicSettings":{
