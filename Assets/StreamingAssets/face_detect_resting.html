@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Resting Countdown</title>
+  <script defer src="face-api.min.js"></script>
+  <script defer src="resting.js"></script>
+  <link rel="stylesheet" href="style.css">
+
+
+</head>
+
+<body style="background-color: black;">
+<div class="center">
+<p style="font-size:200px;color:white">&#43;</p>
+<video id="video" style="visibility:hidden" width="1" height="1" autoplay muted></video>
+
+</div>
+
+
+
+
+<script type="text/javascript">
+var timeleft = 45;
+var downloadTimer = setInterval(function(){
+  if(timeleft <= 0){
+    clearInterval(downloadTimer);
+    document.getElementById("countdown").innerHTML = "Go back to the maze game";
+  } else {
+    document.getElementById("countdown").innerHTML = timeleft + " seconds remaining";
+  }
+  timeleft -= 1;
+}, 1000);
+</script>
+
+</body>
+<footer>
+  <div id="countdown" style="color:white;font-size: 20px;text-align: center;"></div>
+</footer>
+
+</html>

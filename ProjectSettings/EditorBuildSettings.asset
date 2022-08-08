@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Shape_remember/MainMenu.unity
+    guid: 2cda55fe504fe1642b59436d0c83e66c
+  - enabled: 1
+    path: Assets/Shape_remember/ModeSelect.unity
+    guid: 3dac0d0e65827824f9b9d7272ec4978a
+  - enabled: 1
+    path: Assets/Shape_remember/LevelSelect_AL.unity
+    guid: 37d54b8bc8589ea4ba11d88cb35d3a0f
+  - enabled: 0
+    path: Assets/Shape_remember/LevelSelect_No_singing.unity
+    guid: 296c9d90ef1d17e44941364e89e1af6e
+  - enabled: 1
+    path: Assets/Shape_remember/Advance Level/Shape_AL_1.unity
+    guid: 655685191d8fe1a44888ea8bb3c599e3
+  - enabled: 1
+    path: Assets/Shape_remember/Advance Level/Shape_AL_2.unity
+    guid: e87878cfc4645be4082595b1f5d61c52
+  - enabled: 1
+    path: Assets/Shape_remember/Advance Level/Shape_AL_3.unity
+    guid: 6ba7e9dc9705f3941806317920188d1f
+  - enabled: 1
+    path: Assets/Shape_remember/Advance Level/Shape_AL_4.unity
+    guid: 3b34642915746c049a5244b365181177
+  - enabled: 1
+    path: Assets/Shape_remember/Advance Level/Shape_AL_5.unity
+    guid: fbe4e872ec08a9d45949077fce9915f0
+  - enabled: 1
+    path: Assets/Shape_remember/Advance Level/Shape_AL_6.unity
+    guid: 5ec4fabe33812ef49b842dd60fb22cf9
+  - enabled: 1
+    path: Assets/Shape_remember/Advance Level/Shape_AL_7.unity
+    guid: 2b502d5d8f34e8347bba9f27059a78e7
+  - enabled: 1
+    path: Assets/Shape_remember/Advance Level/Shape_AL_8.unity
+    guid: 4a619f5ffcf6fe44da74bad173541ed4
+  - enabled: 1
+    path: Assets/Shape_remember/Advance Level/Shape_AL_9.unity
+    guid: d532f138b77a7e54db109e8578c60c59
+  - enabled: 1
+    path: Assets/Shape_remember/Advance Level/Shape_AL_10.unity
+    guid: cc581fc65b6955b48b1c1167cc664cc1
+  - enabled: 1
+    path: Assets/Shape_remember/Advance Level/Shape_AL_11.unity
+    guid: 5e92ed09fda362d44aba0b12dd976b77
+  - enabled: 1
+    path: Assets/Shape_remember/Advance Level/Shape_AL_12.unity
+    guid: a354832c27d1197448ec17f5ac3a0389
+  - enabled: 1
+    path: Assets/Shape_remember/Advance Level/Shape_AL_13.unity
+    guid: 5ee3b6e11422fc849b101795c02dd75b
+  - enabled: 1
+    path: Assets/Shape_remember/Advance Level/Shape_AL_14.unity
+    guid: b03dfb9dec7d07649a1fed52a8a8d3c2
+  - enabled: 1
+    path: Assets/Scenes/Loading/LoadingScene.unity
+    guid: f84e2c77bfcb1144db540505b10291f4
+  - enabled: 1
+    path: Assets/Scenes/Main/MainScene.unity
+    guid: a5ef89c15e3547345b26b12e8c78ac9a
+  - enabled: 1
+    path: Assets/Scenes/Options/OptionsScene.unity
+    guid: 6c828cde566d47e4994dbf40c121d51d
+  - enabled: 1
+    path: Assets/Scenes/About/AboutScene.unity
+    guid: 95c8c6f2708f1b247913f73397d51376
+  - enabled: 1
+    path: Assets/Scenes/Options/GameOptions/OptionsGameScene.unity
+    guid: 5d43988ef109d4246b6a972076c93a6d
+  - enabled: 1
+    path: Assets/Scenes/Options/GraphicOptions/OptionsGraphicsScene.unity
+    guid: 8d4155580fdeff34a9db95f96b0f718f
+  - enabled: 1
+    path: Assets/Scenes/Options/SoundOptions/OptionsSoundScene.unity
+    guid: c593716c83a53884bbbd31e8afc223bd
+  - enabled: 1
+    path: Assets/Scenes/Options/PlayerProfileSetup/PlayerProfileSetupScene.unity
+    guid: f509dae09ad85ac4e9c41ff79fa95d6d
+  - enabled: 1
+    path: Assets/Scenes/Result/HighscoreScene.unity
+    guid: 4aae204a79a088d488888b1ce72c2dda
+  - enabled: 1
+    path: Assets/Scenes/SingingResults/SingingResultsScene.unity
+    guid: 9647cd7b9dee4b44fb9a7e98c6c4b234
+  - enabled: 1
+    path: Assets/Scenes/Result/StatisticsScene.unity
+    guid: e1ab09ef6a75a0d4c8833df9dfc6f69e
+  - enabled: 1
+    path: Assets/Scenes/Sing/SingScene.unity
+    guid: 26d098666d9009940adcdddf608e1ed5
+  - enabled: 1
+    path: Assets/Scenes/SongSelect/SongSelectScene.unity
+    guid: 68528565b160881499d24604093545b8
+  - enabled: 1
+    path: Assets/Scenes/SongEditor/SongEditorScene.unity
+    guid: 1b6a6dcadb95d264ebd70baedd7dcec5
+  - enabled: 1
+    path: Assets/Scenes/Credits/CreditsScene.unity
+    guid: 10a5c18050b77b640aababd3342f6081
+  - enabled: 1
+    path: Assets/Scenes/Options/RecordingOptions/RecordingOptionsScene.unity
+    guid: 1d45d77c510b46a4b84e3f412e45766d
+  - enabled: 1
+    path: Assets/Shape_remember/Advance Level No Singing/Shape_AL_N_1.unity
+    guid: 34fe7459d80a0be41959f5c93c251a11
+  - enabled: 1
+    path: Assets/Shape_remember/Advance Level No Singing/Shape_AL_N_2.unity
+    guid: 755cb741691e317409f3ae0155261f9d
+  - enabled: 1
+    path: Assets/Shape_remember/Advance Level No Singing/Shape_AL_N_3.unity
+    guid: fd126857e1be2aa4aae1887d05462ebb
+  - enabled: 1
+    path: Assets/Shape_remember/Advance Level No Singing/Shape_AL_N_4.unity
+    guid: f982104a02f36524891ba1496b0a0b66
+  - enabled: 1
+    path: Assets/Shape_remember/Advance Level No Singing/Shape_AL_N_5.unity
+    guid: f94d0d5bce3761544ac04d67cbad3c2f
+  - enabled: 1
+    path: Assets/Shape_remember/Advance Level No Singing/Shape_AL_N_6.unity
+    guid: e5a8c7ecc2564a943acc4f96d22c731a
+  - enabled: 1
+    path: Assets/Shape_remember/Advance Level No Singing/Shape_AL_N_7.unity
+    guid: f5c28196a42290843ae15ab4b71d4c50
+  - enabled: 0
+    path: Assets/Shape_remember/LevelSelect_BL.unity
+    guid: f191e8d931f2a88478ec7298adc13fe8
+  - enabled: 0
+    path: Assets/Shape_remember/Basic Level/Shape_BL_1.unity
+    guid: 64e84e246df43b546bf74bcf1abaadc4
+  - enabled: 0
+    path: Assets/Shape_remember/Basic Level/Shape_BL_2.unity
+    guid: 23c82687839b6f441a06ce872a8a9eb2
+  - enabled: 0
+    path: Assets/Game.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/level_nm_test.unity
+    guid: 17485afc6edada645978da2ba99d76ad
+  - enabled: 0
+    path: Assets/Testing_almost_ETH.unity
+    guid: 740b15f81cbb4d34b9b06ffe924d417b
+  - enabled: 1
+    path: Assets/Shape_remember/LevelSelect_AL_No_Sing.unity
+    guid: df5b816c1b999484babdca07fa0fde5f
+  - enabled: 0
+    path: Assets/Scenes/Sing/SingScene_AL_1.unity
+    guid: 10e187d4eb25b2243a074abfe51c5cd5
+  - enabled: 0
+    path: Assets/Scenes/Sing/SingScene_AL_2.unity
+    guid: 2ffba4c8eb306a44c83904b89210ac74
+  - enabled: 0
+    path: Assets/Scenes/Sing/SingScene_AL_3.unity
+    guid: 684ebd34b9af1094980ae8faab2e0f32
+  - enabled: 0
+    path: Assets/Scenes/Sing/SingScene_AL_4.unity
+    guid: df3cf8d83ea897843853efeb5ccb3b47
+  - enabled: 0
+    path: Assets/Scenes/Sing/SingScene_AL_5.unity
+    guid: 6c503da28e091c54e9e53b97ff170be6
+  - enabled: 0
+    path: Assets/Scenes/Sing/SingScene_AL_6.unity
+    guid: f44ce66f8fe58484ea6c68a682cf7fd7
+  - enabled: 0
+    path: Assets/Scenes/Sing/SingScene_AL_7.unity
+    guid: 2ae498f0bf0e2b449a20b17744a2aeb3
+  - enabled: 0
+    path: Assets/Shape_remember/Countdown/CountDown.unity
+    guid: 1eb648440beae8a4ab7e5bc4919be200
+  - enabled: 0
+    path: Assets/Shape_remember/Countdown/CountDown_Scene_1.unity
+    guid: 47114826b6c39ce40bb6ba6f069d0b27
+  - enabled: 0
+    path: Assets/Shape_remember/Countdown/CountDown_Scene_2.unity
+    guid: 08f1ce75486bc62498fa7bf9df32038b
+  - enabled: 0
+    path: Assets/Shape_remember/Countdown/CountDown_Scene_3.unity
+    guid: 6c0c6eb8fed2a7b4e8f94bd6a53d9b1c
+  - enabled: 0
+    path: Assets/Shape_remember/Countdown/CountDown_Scene_4.unity
+    guid: 6cfa398a21d179348bf26cd3df3b1948
+  - enabled: 0
+    path: Assets/Shape_remember/Countdown/CountDown_Scene_5.unity
+    guid: aa570f8b1b70e3e45834f7946afde215
+  - enabled: 0
+    path: Assets/Shape_remember/Countdown/CountDown_Scene_6.unity
+    guid: 46af9a7bdd9f5384ab40acbd34a7da5a
+  - enabled: 0
+    path: Assets/Shape_remember/Countdown/CountDown_Scene_7.unity
+    guid: 8cc5d1ca5a90f56488db0d78b0b6bb72
+  - enabled: 1
+    path: Assets/Shape_remember/GetInfo.unity
+    guid: bd99ba88ffae56c4ca27a59c3dbfd0b4
+  - enabled: 0
+    path: Assets/Shape_remember/LevelSelect_AL_Smile.unity
+    guid: ff0f20990205fa64eb1edacc12e9cfab
+  - enabled: 0
+    path: Assets/Shape_remember/Advance Level_Smile/Shape_AL_1_Smile.unity
+    guid: 40898e4f3efaee34b8d8bbcb1ebcdb78
+  - enabled: 0
+    path: Assets/Shape_remember/Advance Level_Smile/Shape_AL_2_Smile.unity
+    guid: 2974bd31196ccaa4faa9f93d8f9d5de1
+  - enabled: 0
+    path: Assets/Shape_remember/Advance Level_Smile/Shape_AL_3_Smile.unity
+    guid: da75c9ccee0fe3a4ba6f96016f20f1da
+  - enabled: 0
+    path: Assets/Shape_remember/Advance Level_Smile/Shape_AL_4_Smile.unity
+    guid: f574bb9a02a73de40a8e3f3573b4b1d7
+  - enabled: 0
+    path: Assets/Shape_remember/Advance Level_Smile/Shape_AL_5_Smile.unity
+    guid: f9f0fd4b6cec7ee4d9067509be81cdee
+  - enabled: 0
+    path: Assets/Shape_remember/Advance Level_Smile/Shape_AL_6_Smile.unity
+    guid: c48449145e4acdf48ac6ac7a6fd38d9b
+  - enabled: 0
+    path: Assets/Shape_remember/Advance Level_Smile/Shape_AL_7_Smile.unity
+    guid: ac86c62f51d7a9248b8dba4dd4c4860a
+  m_configObjects: {}
